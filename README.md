@@ -7,11 +7,14 @@ This project integrates two advanced neural network models to accurately detect 
 
 
 🕹️ [Nice GUI videos detection](https://github.com/HenIsrael/Violence_Detection/blob/master/GUI.ipynb)
+
+
 ![bond-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e5504b09-9ed5-419e-b0ca-3e85f1dc9343)
 
 
-<p style="color:red; font-size:20px;"><strong>DETECT VIOLENT CONTENT</strong></p>
-<p style="color:black;">violent behavior, weapons found</p>
+**DETECT VIOLENT CONTENT!**
+
+violent behavior, weapons found
 
 ---
 
